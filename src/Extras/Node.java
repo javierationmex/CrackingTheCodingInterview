@@ -5,7 +5,7 @@ package Extras;
  */
 public class Node {
     public int value;
-    Node left, right;
+    public Node left, right;
 
     public Node() {
     }
