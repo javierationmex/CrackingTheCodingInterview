@@ -6,6 +6,7 @@ package Chapter9;
 public class Nine_3 {
 
     public static void main(String[] args) {
+        //int[] array = {-20, -2, 2, 15, 18, 20, 21};
         int[] array = {-20, -2, 2, 15, 18, 20, 21};
         System.out.println(magicIndex(array));
     }
