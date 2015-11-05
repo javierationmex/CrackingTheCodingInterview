@@ -5,7 +5,6 @@ package Chapter10;
  */
 
 public class Ten_3 {
-//TODO fix it, have main stuff and picture
     public static void main(String[] args) {
         int ex1[] = {15,16,19,20,25,1,3,4,5,7,10,14};
         int ex2[] = {7,10,14,15,16,19,20,25,1,3,4,5};
